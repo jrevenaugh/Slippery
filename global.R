@@ -27,5 +27,5 @@ options(warn=-1)
 # Set initial state and globals
 scale_length <- 20
 vp <- 0.02
-X <- matrix( 0 )
-A <- vector( "double", 0 )
+X <- matrix(0)
+A <- vector("double", 0)
